@@ -4,3 +4,4 @@ project(GettingStartedWithQt5Cmake LANGUAGES CXX)
 
 add_subdirectory(Part1-HelloWorld)
 add_subdirectory(Part2-HelloQt)
+add_subdirectory(Part3-SignalsSlots)
